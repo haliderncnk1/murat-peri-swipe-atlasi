@@ -1,0 +1,449 @@
+{
+  "created_at_utc": "2026-11-10T23:12:18.656280+00:00",
+  "count": 55,
+  "map_engine": "../assets/map.js",
+  "map_engine_sha256": "8878b74b36edc12f65e550703fc954cd28c07fbbf1713d6a16f771ff50a43164",
+  "main_id": "yuk_1990_2020",
+  "maps": [
+    {
+      "id": "yuk_1990_2020",
+      "bolum_basligi": "Yukarı Kaleköy · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yuk_1990_2020.html",
+      "dosya": "embed/yuk_1990_2020.html",
+      "sha256": "bcb7e35efa00f5cb6cbbedb6aae6d7b3a028584c5ef59c162c5fc01a7aaa2849"
+    },
+    {
+      "id": "yuk_1990_2026",
+      "bolum_basligi": "Yukarı Kaleköy · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yuk_1990_2026.html",
+      "dosya": "embed/yuk_1990_2026.html",
+      "sha256": "f15cc0b69346e1311f3c0a99d172dcc0ac8d4bd26d63f2ffc248073c0fb4c628"
+    },
+    {
+      "id": "yuk_2020_2026",
+      "bolum_basligi": "Yukarı Kaleköy · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yuk_2020_2026.html",
+      "dosya": "embed/yuk_2020_2026.html",
+      "sha256": "9a904b21ffa5a1b850c7ef1dce3f17acf74d10444799c2727223b2033a140d46"
+    },
+    {
+      "id": "yuk_corine_2000_2018",
+      "bolum_basligi": "Yukarı Kaleköy · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yuk_corine_2000_2018.html",
+      "dosya": "embed/yuk_corine_2000_2018.html",
+      "sha256": "1d65995166d4ee3c7490239a004dc59a5af7683030029556090bc79493547a9f"
+    },
+    {
+      "id": "ask_1990_2020",
+      "bolum_basligi": "Aşağı Kaleköy · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ask_1990_2020.html",
+      "dosya": "embed/ask_1990_2020.html",
+      "sha256": "362f179b0b2987418c9d49d6ca311d3c77162dcd214c66ed93a4cffd36d9665a"
+    },
+    {
+      "id": "ask_1990_2026",
+      "bolum_basligi": "Aşağı Kaleköy · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ask_1990_2026.html",
+      "dosya": "embed/ask_1990_2026.html",
+      "sha256": "d0df0cb457ef9f3dc7a68a5d2ddf373ebf0aae535c66127bb68dfba822adf989"
+    },
+    {
+      "id": "ask_2020_2026",
+      "bolum_basligi": "Aşağı Kaleköy · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ask_2020_2026.html",
+      "dosya": "embed/ask_2020_2026.html",
+      "sha256": "0dfed56412f1e0092ff186a64f59e31495fe1d32a68bcc639027078e8f2c3583"
+    },
+    {
+      "id": "ask_corine_2000_2018",
+      "bolum_basligi": "Aşağı Kaleköy · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ask_corine_2000_2018.html",
+      "dosya": "embed/ask_corine_2000_2018.html",
+      "sha256": "cf4789a90b78c7319c3d785c1c875f4388fdc19d458dc95db27d774bc2ca3786"
+    },
+    {
+      "id": "be1_1990_2020",
+      "bolum_basligi": "Beyhan I · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be1_1990_2020.html",
+      "dosya": "embed/be1_1990_2020.html",
+      "sha256": "e696dfcd4dbe280231deedb71f074ff46c2d3019304829e93b834dd2818e8311"
+    },
+    {
+      "id": "be1_1990_2026",
+      "bolum_basligi": "Beyhan I · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be1_1990_2026.html",
+      "dosya": "embed/be1_1990_2026.html",
+      "sha256": "b8ef8e6d26df7840f0bd761adc47f37534ed4e2400a277f1116e21fed730cd53"
+    },
+    {
+      "id": "be1_2020_2026",
+      "bolum_basligi": "Beyhan I · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be1_2020_2026.html",
+      "dosya": "embed/be1_2020_2026.html",
+      "sha256": "8e9350f11f0bf69c780c54910a6755111af03f4e1e0c84bf27309dca46791c55"
+    },
+    {
+      "id": "be1_corine_2000_2018",
+      "bolum_basligi": "Beyhan I · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be1_corine_2000_2018.html",
+      "dosya": "embed/be1_corine_2000_2018.html",
+      "sha256": "f7e1042924efef792e2a1b49b54d70b6db0c907b182571e73d82f40f2b823183"
+    },
+    {
+      "id": "be2_1990_2020",
+      "bolum_basligi": "Beyhan II · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be2_1990_2020.html",
+      "dosya": "embed/be2_1990_2020.html",
+      "sha256": "f3c9aadcea102defd25a2c1a77d39b4e473728cf61c62803c1c9ff14be2b98a3"
+    },
+    {
+      "id": "be2_1990_2026",
+      "bolum_basligi": "Beyhan II · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be2_1990_2026.html",
+      "dosya": "embed/be2_1990_2026.html",
+      "sha256": "82d1e9587561e028a1594a44fa2537b3d9e7ee3eb7422e722921588d44509609"
+    },
+    {
+      "id": "be2_2020_2026",
+      "bolum_basligi": "Beyhan II · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be2_2020_2026.html",
+      "dosya": "embed/be2_2020_2026.html",
+      "sha256": "1f59155c3b6662b1c61e13b7819d7dd8bd170d3cd47bfa254dcea072bebf13d1"
+    },
+    {
+      "id": "be2_corine_2000_2018",
+      "bolum_basligi": "Beyhan II · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/be2_corine_2000_2018.html",
+      "dosya": "embed/be2_corine_2000_2018.html",
+      "sha256": "f36ba81d65d8a73866898751fd6e151f7f9da60d58d082ef41b32f605b93a6a7"
+    },
+    {
+      "id": "kig_1990_2020",
+      "bolum_basligi": "Kığı (Kiğı) · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/kig_1990_2020.html",
+      "dosya": "embed/kig_1990_2020.html",
+      "sha256": "7eddc3bd27e6f3d78205c1653fd28890ed8538a129a1e647217fb1ceec85e35d"
+    },
+    {
+      "id": "kig_1990_2026",
+      "bolum_basligi": "Kığı (Kiğı) · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/kig_1990_2026.html",
+      "dosya": "embed/kig_1990_2026.html",
+      "sha256": "fa1f25f2c2d4efd3a37137c593858d41466e66fffc41b9681990987bf3738377"
+    },
+    {
+      "id": "kig_2020_2026",
+      "bolum_basligi": "Kığı (Kiğı) · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/kig_2020_2026.html",
+      "dosya": "embed/kig_2020_2026.html",
+      "sha256": "2779ca62977e1e0d7ced7430854f6e1c996867b7d395f6e4ad778bd0d7a54d46"
+    },
+    {
+      "id": "kig_corine_2000_2018",
+      "bolum_basligi": "Kığı (Kiğı) · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/kig_corine_2000_2018.html",
+      "dosya": "embed/kig_corine_2000_2018.html",
+      "sha256": "cb50982dcf89a526286745d3675fce8b2d0bbe743ba0d7f7be78b0a7f1bf5acd"
+    },
+    {
+      "id": "yed_1990_2020",
+      "bolum_basligi": "Yedisu · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yed_1990_2020.html",
+      "dosya": "embed/yed_1990_2020.html",
+      "sha256": "0292f35524dcf25d465a5b5e51eaf581b00ff44e6e74b7218c07f14795f4797e"
+    },
+    {
+      "id": "yed_1990_2026",
+      "bolum_basligi": "Yedisu · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yed_1990_2026.html",
+      "dosya": "embed/yed_1990_2026.html",
+      "sha256": "dd82820916e588dbbbf7c978a2e5ac2a4851bae2f30a74e820b6c53a5b4e2d73"
+    },
+    {
+      "id": "yed_2020_2026",
+      "bolum_basligi": "Yedisu · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yed_2020_2026.html",
+      "dosya": "embed/yed_2020_2026.html",
+      "sha256": "7b6071b94f9f480ddfbf24a49e97fd9e08d818704ac3c5f9780a1d071d28e1a5"
+    },
+    {
+      "id": "yed_corine_2000_2018",
+      "bolum_basligi": "Yedisu · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/yed_corine_2000_2018.html",
+      "dosya": "embed/yed_corine_2000_2018.html",
+      "sha256": "a3f1775de1f6d2626344cbdc9bc9381508defe48d3c85d55ae175a91b0afbc52"
+    },
+    {
+      "id": "ozl_1990_2020",
+      "bolum_basligi": "Özlüce · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1990_2020.html",
+      "dosya": "embed/ozl_1990_2020.html",
+      "sha256": "bbc4de331ff9d6fb80980ffe057a00f672cc1bac5b6c9405315f21ff2ea5290c"
+    },
+    {
+      "id": "ozl_1990_2026",
+      "bolum_basligi": "Özlüce · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1990_2026.html",
+      "dosya": "embed/ozl_1990_2026.html",
+      "sha256": "19baae142417ed35775292ae1ee8c479a26610a343faae86e4397158bf7a8230"
+    },
+    {
+      "id": "ozl_2020_2026",
+      "bolum_basligi": "Özlüce · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_2020_2026.html",
+      "dosya": "embed/ozl_2020_2026.html",
+      "sha256": "2fe8f2910e7eee0db0bf6cb625a7b74f131f56bc55701900bf7801afc4164cd2"
+    },
+    {
+      "id": "ozl_corine_2000_2018",
+      "bolum_basligi": "Özlüce · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_corine_2000_2018.html",
+      "dosya": "embed/ozl_corine_2000_2018.html",
+      "sha256": "7e98776db8a6d6c350aa768e03d0d2f899baae13ecc54d1d6ebb1038485d14c9"
+    },
+    {
+      "id": "pem_1990_2020",
+      "bolum_basligi": "Pembelik · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/pem_1990_2020.html",
+      "dosya": "embed/pem_1990_2020.html",
+      "sha256": "912b304a007ed7d839f86a0568bf470daf48dab3363c9b8a33039375e418ee76"
+    },
+    {
+      "id": "pem_1990_2026",
+      "bolum_basligi": "Pembelik · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/pem_1990_2026.html",
+      "dosya": "embed/pem_1990_2026.html",
+      "sha256": "cd250c3dc5bd9ab085d73c984fc54a0d3ee7ed4f4c8cb3f40003e662a11b802c"
+    },
+    {
+      "id": "pem_2020_2026",
+      "bolum_basligi": "Pembelik · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/pem_2020_2026.html",
+      "dosya": "embed/pem_2020_2026.html",
+      "sha256": "b46595e83cda57eca3fc94ee1d6756e60ad40ba24df54aac7a68cb730a84fcb6"
+    },
+    {
+      "id": "pem_corine_2000_2018",
+      "bolum_basligi": "Pembelik · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/pem_corine_2000_2018.html",
+      "dosya": "embed/pem_corine_2000_2018.html",
+      "sha256": "417ef45cfe98ad9037e8e39dc976a4a29a1013a34e63d6f7a10d35d4db93c7a3"
+    },
+    {
+      "id": "sey_1990_2020",
+      "bolum_basligi": "Seyrantepe · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/sey_1990_2020.html",
+      "dosya": "embed/sey_1990_2020.html",
+      "sha256": "4b2cc9434a2f26eaec01d56c0f01849d588cd36b5747103bd3985762815359f2"
+    },
+    {
+      "id": "sey_1990_2026",
+      "bolum_basligi": "Seyrantepe · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/sey_1990_2026.html",
+      "dosya": "embed/sey_1990_2026.html",
+      "sha256": "c077e1c8f3ad001209d4573675973873640a8b30875bc4b07b8ab0e41a48e16b"
+    },
+    {
+      "id": "sey_2020_2026",
+      "bolum_basligi": "Seyrantepe · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/sey_2020_2026.html",
+      "dosya": "embed/sey_2020_2026.html",
+      "sha256": "f2cc0b43e1c6e213cbc092836cfc5f5a5766844e2e45522a4b76de4dda299f08"
+    },
+    {
+      "id": "sey_corine_2000_2018",
+      "bolum_basligi": "Seyrantepe · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/sey_corine_2000_2018.html",
+      "dosya": "embed/sey_corine_2000_2018.html",
+      "sha256": "f503d857d115db069a3af64e27b50e9b89191e85ad91b75f9d7f3d9107f20e16"
+    },
+    {
+      "id": "tat_1990_2020",
+      "bolum_basligi": "Tatar · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/tat_1990_2020.html",
+      "dosya": "embed/tat_1990_2020.html",
+      "sha256": "c0cbbc57ebb8187112d0599354dc60618e76dda2076f49efbcb72f4e27693ba8"
+    },
+    {
+      "id": "tat_1990_2026",
+      "bolum_basligi": "Tatar · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/tat_1990_2026.html",
+      "dosya": "embed/tat_1990_2026.html",
+      "sha256": "deb81def6375c332cde8a86a8c802e716440a2427c6645e17caddf46293d4bb9"
+    },
+    {
+      "id": "tat_2020_2026",
+      "bolum_basligi": "Tatar · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/tat_2020_2026.html",
+      "dosya": "embed/tat_2020_2026.html",
+      "sha256": "c103b19e903b94343e77af060c5c00cf29ffddd1b420e5162be844023911649b"
+    },
+    {
+      "id": "tat_corine_2000_2018",
+      "bolum_basligi": "Tatar · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/tat_corine_2000_2018.html",
+      "dosya": "embed/tat_corine_2000_2018.html",
+      "sha256": "143c0a7b50751f111685d1055af4ac0ef33bfba5c8dbfd998ff9867ccb5c5d10"
+    },
+    {
+      "id": "murat_vadi_1990_2020",
+      "bolum_basligi": "Murat barajlar koridoru · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/murat_vadi_1990_2020.html",
+      "dosya": "embed/murat_vadi_1990_2020.html",
+      "sha256": "cb1c421b1dd77ce5c1c932e30b1b2ef6b3b0b4ff7000565681d1a235dd940f19"
+    },
+    {
+      "id": "murat_vadi_1990_2026",
+      "bolum_basligi": "Murat barajlar koridoru · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/murat_vadi_1990_2026.html",
+      "dosya": "embed/murat_vadi_1990_2026.html",
+      "sha256": "a2b5ff1eee63236e007baea261dcaab8cc196fb3c7674b889d71fe022aeac2b0"
+    },
+    {
+      "id": "murat_vadi_2020_2026",
+      "bolum_basligi": "Murat barajlar koridoru · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/murat_vadi_2020_2026.html",
+      "dosya": "embed/murat_vadi_2020_2026.html",
+      "sha256": "49253dd47f158e9f44e7b9f130df207373f6b62ded3ce47660295045b3de657f"
+    },
+    {
+      "id": "murat_vadi_corine_2000_2018",
+      "bolum_basligi": "Murat barajlar koridoru · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/murat_vadi_corine_2000_2018.html",
+      "dosya": "embed/murat_vadi_corine_2000_2018.html",
+      "sha256": "d637babe491c59dac20c91551be9655cfb4537210489f6336ead5e10a65b3cc7"
+    },
+    {
+      "id": "peri_vadi_1990_2020",
+      "bolum_basligi": "Peri barajlar koridoru · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/peri_vadi_1990_2020.html",
+      "dosya": "embed/peri_vadi_1990_2020.html",
+      "sha256": "39f2ce340b19cba67d6389423ab8f19c85c8e35a07512d72dc658ad59293273d"
+    },
+    {
+      "id": "peri_vadi_1990_2026",
+      "bolum_basligi": "Peri barajlar koridoru · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/peri_vadi_1990_2026.html",
+      "dosya": "embed/peri_vadi_1990_2026.html",
+      "sha256": "5d7c39efef9a26490921ff0a8c9832fe0a894742aa031b2e16082629d38881d8"
+    },
+    {
+      "id": "peri_vadi_2020_2026",
+      "bolum_basligi": "Peri barajlar koridoru · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/peri_vadi_2020_2026.html",
+      "dosya": "embed/peri_vadi_2020_2026.html",
+      "sha256": "df6a2c403ffba35984ac1bf7268645cf19b7056a1d383d72fc79e3ffb9f72164"
+    },
+    {
+      "id": "peri_vadi_corine_2000_2018",
+      "bolum_basligi": "Peri barajlar koridoru · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/peri_vadi_corine_2000_2018.html",
+      "dosya": "embed/peri_vadi_corine_2000_2018.html",
+      "sha256": "70ee63f2f684d6b8f8be329a4dd3e3b10410af8329e69608e2ccf26e5c619276"
+    },
+    {
+      "id": "ozl_1984_pencere_1984_1990",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 1984–1990",
+      "yillar": "1984 / 1990",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_1984_1990.html",
+      "dosya": "embed/ozl_1984_pencere_1984_1990.html",
+      "sha256": "f8bc3de07d3248b929e120f41a8854ab79a5400675f49abeaa1b96bf3e6b0347"
+    },
+    {
+      "id": "ozl_1984_pencere_1984_2020",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 1984–2020",
+      "yillar": "1984 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_1984_2020.html",
+      "dosya": "embed/ozl_1984_pencere_1984_2020.html",
+      "sha256": "d0e98ead77ef749e45199bca8e50d7bd3727b2efdc4e530f35843ef6e1754c8b"
+    },
+    {
+      "id": "ozl_1984_pencere_1984_2026",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 1984–2026",
+      "yillar": "1984 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_1984_2026.html",
+      "dosya": "embed/ozl_1984_pencere_1984_2026.html",
+      "sha256": "b4a83e6090320e4742677b566c6d32699f293e99417a254172854a2b95a2c767"
+    },
+    {
+      "id": "ozl_1984_pencere_1990_2020",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 1990–2020",
+      "yillar": "1990 / 2020",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_1990_2020.html",
+      "dosya": "embed/ozl_1984_pencere_1990_2020.html",
+      "sha256": "11917ac287f601d315780ba91ee6be2cb72687ecc51c76648149aaab80f73f69"
+    },
+    {
+      "id": "ozl_1984_pencere_1990_2026",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 1990–2026",
+      "yillar": "1990 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_1990_2026.html",
+      "dosya": "embed/ozl_1984_pencere_1990_2026.html",
+      "sha256": "5642fbe20a55c4a0ec3d51c910f73bec09da48af05df7eebb341710d1ebaf92e"
+    },
+    {
+      "id": "ozl_1984_pencere_2020_2026",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · 2020–2026",
+      "yillar": "2020 / 2026",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_2020_2026.html",
+      "dosya": "embed/ozl_1984_pencere_2020_2026.html",
+      "sha256": "96b9ba38ffa6f91c5af59d0bb5825d2864eede4ea29f29f0ec84339923a483e3"
+    },
+    {
+      "id": "ozl_1984_pencere_corine_2000_2018",
+      "bolum_basligi": "Özlüce / Orta Peri — 1984 kapsama penceresi · arazi örtüsü 2000–2018",
+      "yillar": "2000 / 2018",
+      "embed_url": "https://haliderncnk1.github.io/murat-peri-swipe-atlasi/embed/ozl_1984_pencere_corine_2000_2018.html",
+      "dosya": "embed/ozl_1984_pencere_corine_2000_2018.html",
+      "sha256": "9ac85a015b72f3b533e0beeee825a7af5bba0e436479dad1b2f6533ba0ab5ef0"
+    }
+  ]
+}
