@@ -1,0 +1,17 @@
+{
+  "maps_total": 55,
+  "satellite_swipes": 42,
+  "corine_swipes": 13,
+  "regions": 13,
+  "actual_image_dates": [
+    "1984-07-06",
+    "1990-08-08",
+    "2020-08-26",
+    "2026-08-24"
+  ],
+  "preexisting_files_modified": false,
+  "published_online": false,
+  "site_root": "06_StoryMaps/Swipe_Atlas_20261110",
+  "crs": "EPSG:3857, ortak raster ızgarası; alan hesabı EPSG:32637",
+  "builder": "kodlar/22_swipe_atlasi_uret.py"
+}

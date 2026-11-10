@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "map_count": 55,
+  "unique_georeferenced_images_checked": 172,
+  "independent_source_pixel_checks": 360,
+  "pixel_mismatches": [],
+  "shared_grid_crs_size_transform_and_worldfiles_match": true,
+  "1984_only_in_real_footprint": true,
+  "preexisting_files_checked": 544,
+  "preexisting_files_changed": [],
+  "input_hashes_checked": 22,
+  "published_online": false
+}

@@ -1,0 +1,1530 @@
+{
+  "regions": [
+    {
+      "id": "YUK",
+      "name": "Yukarı Kaleköy",
+      "river": "Murat",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        674040,
+        4287930,
+        698730,
+        4303590
+      ],
+      "dam_ids": [
+        "YUK"
+      ],
+      "dams": [
+        {
+          "id": "YUK",
+          "ad": "Yukarı Kaleköy",
+          "nehir": "Murat",
+          "sira": "1",
+          "boylam": "41.0429",
+          "enlem": "38.8112278",
+          "yil": "2018.0",
+          "kurulu_guc_MWe": "626.85",
+          "yukseklik_m": "150.0",
+          "govde_tipi": "Silindirle sıkıştırılmış beton",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S01;S13;S28;S30",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Upper_Kaleköy_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "626.85",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "İşletmeci Nisan 2018; TRT Şubat 2018; yıl 2018. Kılavuz 2017 düzeltilmiştir.",
+          "yukseklik_kaynak": "S01 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/yukari-kalekoy-baraji-ve-hes/ | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf",
+          "gol_2026_km2": "14.048",
+          "NDTI_20260824_medyan": "-0.2534955143928528",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9538111665107099,
+        "1990_2026": 0.9538274605103281,
+        "2020_2026": 0.9538111665107099
+      }
+    },
+    {
+      "id": "ASK",
+      "name": "Aşağı Kaleköy",
+      "river": "Murat",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        645960,
+        4295310,
+        671940,
+        4310040
+      ],
+      "dam_ids": [
+        "ASK"
+      ],
+      "dams": [
+        {
+          "id": "ASK",
+          "ad": "Aşağı Kaleköy",
+          "nehir": "Murat",
+          "sira": "2",
+          "boylam": "40.709361",
+          "enlem": "38.83075",
+          "yil": "2020.0",
+          "kurulu_guc_MWe": "500.0",
+          "yukseklik_m": "107.0",
+          "govde_tipi": "Kompozit: asfalt çekirdekli dolgu + SSB",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S02;S04;S13;S28;S30;S24;S25",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Lower_Kaleköy_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "500.0",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S02 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez. S24/S25: Murat Höyük 2019 kurtarma kazısı, 2020 su altında.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/asagi-kalekoy-baraji-ve-hes/ | https://bolge09.dsi.gov.tr/Haber/Detay/4432 | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf | https://kvmgm.ktb.gov.tr/Eklenti/98174%2C2019-2020kazicalismalari1pdf.pdf | https://tuba.gov.tr/files/yayinlar/tuba-ar/T%C3%9CBA-AR28.pdf",
+          "gol_2026_km2": "10.1488",
+          "NDTI_20260824_medyan": "-0.4366452395915985",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999858891925325,
+        "1990_2026": 1.0,
+        "2020_2026": 0.9999858891925325
+      }
+    },
+    {
+      "id": "BE1",
+      "name": "Beyhan I",
+      "river": "Murat",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        596280,
+        4283520,
+        635160,
+        4292850
+      ],
+      "dam_ids": [
+        "BE1"
+      ],
+      "dams": [
+        {
+          "id": "BE1",
+          "ad": "Beyhan I",
+          "nehir": "Murat",
+          "sira": "3",
+          "boylam": "40.1357722",
+          "enlem": "38.7519333",
+          "yil": "2015.0",
+          "kurulu_guc_MWe": "582.1",
+          "yukseklik_m": "97.0",
+          "govde_tipi": "Silindirle sıkıştırılmış beton",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S03;S13;S28;S30",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Beyhan_I_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "582.1",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S03 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/beyhan-1-baraji-ve-hes/ | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf",
+          "gol_2026_km2": "13.1248",
+          "NDTI_20260824_medyan": "-0.49666422605514526",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999801516414593,
+        "1990_2026": 1.0,
+        "2020_2026": 0.9999801516414593
+      }
+    },
+    {
+      "id": "BE2",
+      "name": "Beyhan II",
+      "river": "Murat",
+      "kind": "proje_konumu",
+      "bounds_utm37n": [
+        579300,
+        4278240,
+        592320,
+        4291260
+      ],
+      "dam_ids": [
+        "BE2"
+      ],
+      "dams": [
+        {
+          "id": "BE2",
+          "ad": "Beyhan II",
+          "nehir": "Murat",
+          "sira": "4",
+          "boylam": "39.9869",
+          "enlem": "38.7073",
+          "yil": "",
+          "kurulu_guc_MWe": "",
+          "yukseklik_m": "",
+          "govde_tipi": "Plan/proje bilgisi; güncel gövde doğrulanamadı",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S11;S12",
+          "konum_kaynak": "https://www.gem.wiki/Beyhan_2_hydroelectric_plant",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "İşletme doğrulanmadı; GEM: shelved; 2022 lisans sonlandırma haberi",
+          "elektrik_guc_kaynak": "Uygulanamaz; eski plan kapasiteleri çelişkili",
+          "isletmeci_bildirilen_MW": "",
+          "guc_notu": "GEM eski plan 327 MW; 2023 haber 227 MWe. Kurulu güç toplamına dahil edilmedi.",
+          "yil_notu": "İşletmeye giriş tarihi yok.",
+          "yukseklik_kaynak": "Doğrulanamadı",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://www.gem.wiki/Beyhan_2_hydroelectric_plant | https://www.enerjigunlugu.net/epdk-beyhan-2-hesin-uretim-lisansini-sona-erdirdi-52432h.htm",
+          "gol_2026_km2": "",
+          "NDTI_20260824_medyan": "",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999840727133725,
+        "1990_2026": 1.0,
+        "2020_2026": 0.9999840727133725
+      }
+    },
+    {
+      "id": "KIG",
+      "name": "Kığı (Kiğı)",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        607230,
+        4356330,
+        618870,
+        4368300
+      ],
+      "dam_ids": [
+        "KIG"
+      ],
+      "dams": [
+        {
+          "id": "KIG",
+          "ad": "Kığı (Kiğı)",
+          "nehir": "Peri",
+          "sira": "1",
+          "boylam": "40.35194",
+          "enlem": "39.36833",
+          "yil": "2017.0",
+          "kurulu_guc_MWe": "138.0",
+          "yukseklik_m": "173.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu",
+          "balik_gecidi": "Yok — 2022 derlemesi",
+          "kaynak_id": "S05;S06;S23",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Kiğı_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "140.0",
+          "guc_notu": "Kaymakamlık 140 MW; 2022 derlemesi 138 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "2017 Aralık yerel haber; resmî kabul belgesi edinilemedi.",
+          "yukseklik_kaynak": "S05 temelden (170/173 farkı var)",
+          "kaynak_gol_km2": "8.4",
+          "kaynak_gol_notu": "S06; tarihli uydu ölçümü değildir",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://www.kigi.gov.tr/barajlarimiz | https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.bingolonline.com/haber/kigida-elektrik-uretimi-basladi-61314.html",
+          "gol_2026_km2": "5.9848",
+          "NDTI_20260824_medyan": "-0.46168553829193115",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999418649717077,
+        "1990_2026": 0.9999806216572359,
+        "2020_2026": 0.9999612433144718
+      }
+    },
+    {
+      "id": "YED",
+      "name": "Yedisu",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        615750,
+        4346160,
+        620820,
+        4352550
+      ],
+      "dam_ids": [
+        "YED"
+      ],
+      "dams": [
+        {
+          "id": "YED",
+          "ad": "Yedisu",
+          "nehir": "Peri",
+          "sira": "2",
+          "boylam": "40.3728917",
+          "enlem": "39.2764139",
+          "yil": "2012.0",
+          "kurulu_guc_MWe": "22.71",
+          "yukseklik_m": "37.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu / kompozit",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S10;S14",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Yedisu_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "24.0",
+          "guc_notu": "Özaltın 24 MW; 2022 derlemesi 22.71 MWe.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S10 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.ozaltin.com/tr/tum-projeler/baraj-ve-hes-projeleri/insaat/yedisu-baraji-ve-hes-2 | https://www.trthaber.com/haber/ekonomi/yukari-kalekoy-ve-yedisu-hesten-dev-uretim-10-milyon-megavatsaat-uretime-ulasildi-935577.html",
+          "gol_2026_km2": "0.442",
+          "NDTI_20260824_medyan": "-0.434210866689682",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9997499791649304,
+        "1990_2026": 0.9999444398144289,
+        "2020_2026": 0.9998055393505014
+      }
+    },
+    {
+      "id": "OZL",
+      "name": "Özlüce",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        591390,
+        4329540,
+        619710,
+        4348590
+      ],
+      "dam_ids": [
+        "OZL"
+      ],
+      "dams": [
+        {
+          "id": "OZL",
+          "ad": "Özlüce",
+          "nehir": "Peri",
+          "sira": "3",
+          "boylam": "40.08778",
+          "enlem": "39.12972",
+          "yil": "1999.0",
+          "kurulu_guc_MWe": "170.0",
+          "yukseklik_m": "155.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu",
+          "balik_gecidi": "Yok — 2022 derlemesi",
+          "kaynak_id": "S06;S22;S29",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Özlüce_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S22 (resmî işletmeci)",
+          "isletmeci_bildirilen_MW": "170.0",
+          "guc_notu": "Kılavuz 200 MW/2000; EÜAŞ 170 MW ve 18.12.1999; resmî kaynak tercih edildi.",
+          "yil_notu": "EÜAŞ: resmî işletmeye giriş 18.12.1999.",
+          "yukseklik_kaynak": "S22 gövde yüksekliği; referans yüzeyi açıklanmıyor",
+          "kaynak_gol_km2": "25.8",
+          "kaynak_gol_notu": "S22 normal su seviyesinde; tarihli uydu ölçümü değildir",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "S29: Özlüce su alanında kalan bir ziyaret yerinin Kiğı–Adaklı yol ayrımına taşındığı resmî kültür sayfasında belirtiliyor. Taşınan hane sayısı bilinmiyor.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.euas.gov.tr/en-US/power-plants/ozluce-hepp | https://bingol.ktb.gov.tr/TR-57011/kigi-ilcesinin-cografi-konumu.html",
+          "gol_2026_km2": "18.45",
+          "NDTI_20260824_medyan": "-0.5744807720184326",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9998982383557987,
+        "1990_2026": 0.9999916588816229,
+        "2020_2026": 0.9998932336847725
+      }
+    },
+    {
+      "id": "PEM",
+      "name": "Pembelik",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        574110,
+        4324200,
+        594270,
+        4333620
+      ],
+      "dam_ids": [
+        "PEM"
+      ],
+      "dams": [
+        {
+          "id": "PEM",
+          "ad": "Pembelik",
+          "nehir": "Peri",
+          "sira": "4",
+          "boylam": "39.895375",
+          "enlem": "39.0835583",
+          "yil": "2015.0",
+          "kurulu_guc_MWe": "127.34",
+          "yukseklik_m": "88.0",
+          "govde_tipi": "SSB / kompozit; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S07;S26;S27",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Pembelik_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "130.0",
+          "guc_notu": "Güncel Limak sayfası 130 MW; derleme 127.34 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "S26/S27: 2014 imar planları nedeniyle yargı süreci; bütün etkilenen yerleşim/yolların adları ve güncel durumu doğrulanamadı.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/pembelik-baraji | https://bianet.org/haber/imarsiz-pembelik-baraji-ve-hes-e-durdurma-158939 | https://www.aa.com.tr/tr/turkiye/pembelik-baraji-ve-hes-insaatina-durduruldu/114176",
+          "gol_2026_km2": "10.73",
+          "NDTI_20260824_medyan": "-0.603774905204773",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999668259023354,
+        "1990_2026": 0.9999952608431908,
+        "2020_2026": 0.9999620867455262
+      }
+    },
+    {
+      "id": "SEY",
+      "name": "Seyrantepe",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        572340,
+        4317240,
+        579360,
+        4326060
+      ],
+      "dam_ids": [
+        "SEY"
+      ],
+      "dams": [
+        {
+          "id": "SEY",
+          "ad": "Seyrantepe",
+          "nehir": "Peri",
+          "sira": "5",
+          "boylam": "39.8916306",
+          "enlem": "39.0210222",
+          "yil": "2008.0",
+          "kurulu_guc_MWe": "56.84",
+          "yukseklik_m": "48.5",
+          "govde_tipi": "Kum-çakıl dolgu; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S08",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Seyrantepe_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "59.0",
+          "guc_notu": "Güncel Limak sayfası 59 MW; derleme 56.84 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/seyrantepe-baraji-ve-hidroelektrik-santrali",
+          "gol_2026_km2": "1.268",
+          "NDTI_20260824_medyan": "-0.5898983478546143",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999854642711785,
+        "1990_2026": 1.0,
+        "2020_2026": 0.9999854642711785
+      }
+    },
+    {
+      "id": "TAT",
+      "name": "Tatar",
+      "river": "Peri",
+      "kind": "baraj",
+      "bounds_utm37n": [
+        568320,
+        4299600,
+        579240,
+        4316040
+      ],
+      "dam_ids": [
+        "TAT"
+      ],
+      "dams": [
+        {
+          "id": "TAT",
+          "ad": "Tatar",
+          "nehir": "Peri",
+          "sira": "6",
+          "boylam": "39.8168917",
+          "enlem": "38.8630722",
+          "yil": "2013.0",
+          "kurulu_guc_MWe": "128.22",
+          "yukseklik_m": "82.0",
+          "govde_tipi": "Kil çekirdekli toprak dolgu; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S09",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Tatar_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "131.0",
+          "guc_notu": "Güncel Limak sayfası 131 MW; derleme 128.22 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "İşletmeci 2013; Wikipedia 2015; işletmeci esas alındı.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/tatar-baraji",
+          "gol_2026_km2": "9.7176",
+          "NDTI_20260824_medyan": "-0.5598227977752686",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9999699205903585,
+        "1990_2026": 1.0,
+        "2020_2026": 0.9999699205903585
+      }
+    },
+    {
+      "id": "MURAT_VADI",
+      "name": "Murat barajlar koridoru",
+      "river": "Murat",
+      "kind": "vadi",
+      "bounds_utm37n": [
+        596280,
+        4283520,
+        698730,
+        4310040
+      ],
+      "dam_ids": [
+        "YUK",
+        "ASK",
+        "BE1"
+      ],
+      "dams": [
+        {
+          "id": "YUK",
+          "ad": "Yukarı Kaleköy",
+          "nehir": "Murat",
+          "sira": "1",
+          "boylam": "41.0429",
+          "enlem": "38.8112278",
+          "yil": "2018.0",
+          "kurulu_guc_MWe": "626.85",
+          "yukseklik_m": "150.0",
+          "govde_tipi": "Silindirle sıkıştırılmış beton",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S01;S13;S28;S30",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Upper_Kaleköy_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "626.85",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "İşletmeci Nisan 2018; TRT Şubat 2018; yıl 2018. Kılavuz 2017 düzeltilmiştir.",
+          "yukseklik_kaynak": "S01 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/yukari-kalekoy-baraji-ve-hes/ | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf",
+          "gol_2026_km2": "14.048",
+          "NDTI_20260824_medyan": "-0.2534955143928528",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "ASK",
+          "ad": "Aşağı Kaleköy",
+          "nehir": "Murat",
+          "sira": "2",
+          "boylam": "40.709361",
+          "enlem": "38.83075",
+          "yil": "2020.0",
+          "kurulu_guc_MWe": "500.0",
+          "yukseklik_m": "107.0",
+          "govde_tipi": "Kompozit: asfalt çekirdekli dolgu + SSB",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S02;S04;S13;S28;S30;S24;S25",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Lower_Kaleköy_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "500.0",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S02 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez. S24/S25: Murat Höyük 2019 kurtarma kazısı, 2020 su altında.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/asagi-kalekoy-baraji-ve-hes/ | https://bolge09.dsi.gov.tr/Haber/Detay/4432 | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf | https://kvmgm.ktb.gov.tr/Eklenti/98174%2C2019-2020kazicalismalari1pdf.pdf | https://tuba.gov.tr/files/yayinlar/tuba-ar/T%C3%9CBA-AR28.pdf",
+          "gol_2026_km2": "10.1488",
+          "NDTI_20260824_medyan": "-0.4366452395915985",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "BE1",
+          "ad": "Beyhan I",
+          "nehir": "Murat",
+          "sira": "3",
+          "boylam": "40.1357722",
+          "enlem": "38.7519333",
+          "yil": "2015.0",
+          "kurulu_guc_MWe": "582.1",
+          "yukseklik_m": "97.0",
+          "govde_tipi": "Silindirle sıkıştırılmış beton",
+          "balik_gecidi": "Doğrulanamadı",
+          "kaynak_id": "S03;S13;S28;S30",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Beyhan_I_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S01–S03 (işletmeci)",
+          "isletmeci_bildirilen_MW": "582.1",
+          "guc_notu": "Elektriksel kapasite; yıllık enerji üretimi değildir.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S03 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "TCDD S28: Dört Murat projesi nedeniyle 114 km eski hat deplasman programında. S30: 2018 yeni Genç–Kurt kesimi açılış kaydı. 114 km her baraja ayrı atfedilemez.",
+          "balik_notu": "S13: İşletmeci yakalama/taşıma alternatifinin değerlendirildiğini bildiriyor. Uygulandığı veya etkin olduğu doğrulanamadı.",
+          "kaynak_baglantilari": "https://kalehan.com.tr/projeler/beyhan-1-baraji-ve-hes/ | https://kalehan.com.tr/bilgi-merkezi/sss/ | https://static.tcdd.gov.tr/webfiles/userfiles/files/2014faaliyetraporu.pdf | https://static.tcdd.gov.tr/webfiles/userfiles/files/mevzuat/tamim/748.pdf",
+          "gol_2026_km2": "13.1248",
+          "NDTI_20260824_medyan": "-0.49666422605514526",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.988476776001537,
+        "1990_2026": 0.988486713527623,
+        "2020_2026": 0.9888626832645435
+      }
+    },
+    {
+      "id": "PERI_VADI",
+      "name": "Peri barajlar koridoru",
+      "river": "Peri",
+      "kind": "vadi",
+      "bounds_utm37n": [
+        568320,
+        4299600,
+        620820,
+        4368300
+      ],
+      "dam_ids": [
+        "KIG",
+        "YED",
+        "OZL",
+        "PEM",
+        "SEY",
+        "TAT"
+      ],
+      "dams": [
+        {
+          "id": "KIG",
+          "ad": "Kığı (Kiğı)",
+          "nehir": "Peri",
+          "sira": "1",
+          "boylam": "40.35194",
+          "enlem": "39.36833",
+          "yil": "2017.0",
+          "kurulu_guc_MWe": "138.0",
+          "yukseklik_m": "173.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu",
+          "balik_gecidi": "Yok — 2022 derlemesi",
+          "kaynak_id": "S05;S06;S23",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Kiğı_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "140.0",
+          "guc_notu": "Kaymakamlık 140 MW; 2022 derlemesi 138 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "2017 Aralık yerel haber; resmî kabul belgesi edinilemedi.",
+          "yukseklik_kaynak": "S05 temelden (170/173 farkı var)",
+          "kaynak_gol_km2": "8.4",
+          "kaynak_gol_notu": "S06; tarihli uydu ölçümü değildir",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://www.kigi.gov.tr/barajlarimiz | https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.bingolonline.com/haber/kigida-elektrik-uretimi-basladi-61314.html",
+          "gol_2026_km2": "5.9848",
+          "NDTI_20260824_medyan": "-0.46168553829193115",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "YED",
+          "ad": "Yedisu",
+          "nehir": "Peri",
+          "sira": "2",
+          "boylam": "40.3728917",
+          "enlem": "39.2764139",
+          "yil": "2012.0",
+          "kurulu_guc_MWe": "22.71",
+          "yukseklik_m": "37.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu / kompozit",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S10;S14",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Yedisu_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "24.0",
+          "guc_notu": "Özaltın 24 MW; 2022 derlemesi 22.71 MWe.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "S10 temelden",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.ozaltin.com/tr/tum-projeler/baraj-ve-hes-projeleri/insaat/yedisu-baraji-ve-hes-2 | https://www.trthaber.com/haber/ekonomi/yukari-kalekoy-ve-yedisu-hesten-dev-uretim-10-milyon-megavatsaat-uretime-ulasildi-935577.html",
+          "gol_2026_km2": "0.442",
+          "NDTI_20260824_medyan": "-0.434210866689682",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "OZL",
+          "ad": "Özlüce",
+          "nehir": "Peri",
+          "sira": "3",
+          "boylam": "40.08778",
+          "enlem": "39.12972",
+          "yil": "1999.0",
+          "kurulu_guc_MWe": "170.0",
+          "yukseklik_m": "155.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu",
+          "balik_gecidi": "Yok — 2022 derlemesi",
+          "kaynak_id": "S06;S22;S29",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Özlüce_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S22 (resmî işletmeci)",
+          "isletmeci_bildirilen_MW": "170.0",
+          "guc_notu": "Kılavuz 200 MW/2000; EÜAŞ 170 MW ve 18.12.1999; resmî kaynak tercih edildi.",
+          "yil_notu": "EÜAŞ: resmî işletmeye giriş 18.12.1999.",
+          "yukseklik_kaynak": "S22 gövde yüksekliği; referans yüzeyi açıklanmıyor",
+          "kaynak_gol_km2": "25.8",
+          "kaynak_gol_notu": "S22 normal su seviyesinde; tarihli uydu ölçümü değildir",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "S29: Özlüce su alanında kalan bir ziyaret yerinin Kiğı–Adaklı yol ayrımına taşındığı resmî kültür sayfasında belirtiliyor. Taşınan hane sayısı bilinmiyor.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.euas.gov.tr/en-US/power-plants/ozluce-hepp | https://bingol.ktb.gov.tr/TR-57011/kigi-ilcesinin-cografi-konumu.html",
+          "gol_2026_km2": "18.45",
+          "NDTI_20260824_medyan": "-0.5744807720184326",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "PEM",
+          "ad": "Pembelik",
+          "nehir": "Peri",
+          "sira": "4",
+          "boylam": "39.895375",
+          "enlem": "39.0835583",
+          "yil": "2015.0",
+          "kurulu_guc_MWe": "127.34",
+          "yukseklik_m": "88.0",
+          "govde_tipi": "SSB / kompozit; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S07;S26;S27",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Pembelik_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "130.0",
+          "guc_notu": "Güncel Limak sayfası 130 MW; derleme 127.34 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "S26/S27: 2014 imar planları nedeniyle yargı süreci; bütün etkilenen yerleşim/yolların adları ve güncel durumu doğrulanamadı.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/pembelik-baraji | https://bianet.org/haber/imarsiz-pembelik-baraji-ve-hes-e-durdurma-158939 | https://www.aa.com.tr/tr/turkiye/pembelik-baraji-ve-hes-insaatina-durduruldu/114176",
+          "gol_2026_km2": "10.73",
+          "NDTI_20260824_medyan": "-0.603774905204773",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "SEY",
+          "ad": "Seyrantepe",
+          "nehir": "Peri",
+          "sira": "5",
+          "boylam": "39.8916306",
+          "enlem": "39.0210222",
+          "yil": "2008.0",
+          "kurulu_guc_MWe": "56.84",
+          "yukseklik_m": "48.5",
+          "govde_tipi": "Kum-çakıl dolgu; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S08",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Seyrantepe_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "59.0",
+          "guc_notu": "Güncel Limak sayfası 59 MW; derleme 56.84 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "Kaynak yıl bilgisi; dolum başlangıcıyla aynı olmak zorunda değil.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/seyrantepe-baraji-ve-hidroelektrik-santrali",
+          "gol_2026_km2": "1.268",
+          "NDTI_20260824_medyan": "-0.5898983478546143",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        },
+        {
+          "id": "TAT",
+          "ad": "Tatar",
+          "nehir": "Peri",
+          "sira": "6",
+          "boylam": "39.8168917",
+          "enlem": "38.8630722",
+          "yil": "2013.0",
+          "kurulu_guc_MWe": "128.22",
+          "yukseklik_m": "82.0",
+          "govde_tipi": "Kil çekirdekli toprak dolgu; ikincil teknik kaynak",
+          "balik_gecidi": "Var — 2022 derlemesi",
+          "kaynak_id": "S06;S09",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Tatar_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S06 (2022 derlemesi; güncel lisans teyidi yok)",
+          "isletmeci_bildirilen_MW": "131.0",
+          "guc_notu": "Güncel Limak sayfası 131 MW; derleme 128.22 MWe. MWm/MWe ayrımı açık değil.",
+          "yil_notu": "İşletmeci 2013; Wikipedia 2015; işletmeci esas alındı.",
+          "yukseklik_kaynak": "Wikipedia temelden; birincil teyit eksik",
+          "kaynak_gol_km2": "",
+          "kaynak_gol_notu": "Ayrıca 2026 MNDWI ölçümü üretilecek; aynı kavram değildir.",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "Baraja özgü doğrulanmış adlar ve kanıtlar etki tablosunda; eksik değerler tahmin edilmedi.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/tatar-baraji",
+          "gol_2026_km2": "9.7176",
+          "NDTI_20260824_medyan": "-0.5598227977752686",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "available_years_95pct": [
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1990_2020": 0.9997247660636307,
+        "1990_2026": 0.9997439800374298,
+        "2020_2026": 0.9999772925764192
+      }
+    },
+    {
+      "id": "OZL_1984_PENCERE",
+      "name": "Özlüce / Orta Peri — 1984 kapsama penceresi",
+      "river": "Peri",
+      "kind": "vadi",
+      "bounds_utm37n": [
+        585330,
+        4328370,
+        615840,
+        4350960
+      ],
+      "dam_ids": [
+        "OZL"
+      ],
+      "dams": [
+        {
+          "id": "OZL",
+          "ad": "Özlüce",
+          "nehir": "Peri",
+          "sira": "3",
+          "boylam": "40.08778",
+          "enlem": "39.12972",
+          "yil": "1999.0",
+          "kurulu_guc_MWe": "170.0",
+          "yukseklik_m": "155.0",
+          "govde_tipi": "Kil çekirdekli kaya dolgu",
+          "balik_gecidi": "Yok — 2022 derlemesi",
+          "kaynak_id": "S06;S22;S29",
+          "konum_kaynak": "https://en.wikipedia.org/wiki/Özlüce_Dam",
+          "konum_dogrulama": "İkincil koordinat; OSM ve uydu kontrol raporuna bakınız. Jeodezik ölçüm değildir.",
+          "durum": "Kaynakta işletmede",
+          "elektrik_guc_kaynak": "S22 (resmî işletmeci)",
+          "isletmeci_bildirilen_MW": "170.0",
+          "guc_notu": "Kılavuz 200 MW/2000; EÜAŞ 170 MW ve 18.12.1999; resmî kaynak tercih edildi.",
+          "yil_notu": "EÜAŞ: resmî işletmeye giriş 18.12.1999.",
+          "yukseklik_kaynak": "S22 gövde yüksekliği; referans yüzeyi açıklanmıyor",
+          "kaynak_gol_km2": "25.8",
+          "kaynak_gol_notu": "S22 normal su seviyesinde; tarihli uydu ölçümü değildir",
+          "once_cografya": "1990 Landsat görüntüsünde vadi koridoru; arazi türü nicel olarak ayrıca incelenir.",
+          "sonra_etki": "Tarihli su maskesi ve kaynaklı etki tablosuna bakınız; neden-sonuç her piksel için ispatlanmış değildir.",
+          "yerlesim_yol": "S29: Özlüce su alanında kalan bir ziyaret yerinin Kiğı–Adaklı yol ayrımına taşındığı resmî kültür sayfasında belirtiliyor. Taşınan hane sayısı bilinmiyor.",
+          "balik_notu": "Geçidin varlığı işlevsel olduğunun kanıtı değildir; saha etkinlik ölçümü yapılmadı.",
+          "kaynak_baglantilari": "https://dergipark.org.tr/tr/download/article-file/2856030 | https://www.euas.gov.tr/en-US/power-plants/ozluce-hepp | https://bingol.ktb.gov.tr/TR-57011/kigi-ilcesinin-cografi-konumu.html",
+          "gol_2026_km2": "18.45",
+          "NDTI_20260824_medyan": "-0.5744807720184326",
+          "analiz_kaynak": "Bu projede yeni Sentinel-2 24.08.2026 verisinden üretildi; yöntem/belirsizlik raporuna bakınız."
+        }
+      ],
+      "extent_note": "1984 su maskesinin gerçek geçerli piksel sınırlarına kırpılmış ortak pencere; Özlüce rezervuarının tamamı değildir.",
+      "available_years_95pct": [
+        "1984",
+        "1990",
+        "2020",
+        "2026"
+      ],
+      "pair_common_coverage": {
+        "1984_1990": 0.9999804126659537,
+        "1984_2020": 0.9999112040856567,
+        "1984_2026": 0.9999764951991444,
+        "1990_2020": 0.9999281797751636,
+        "1990_2026": 0.9999934708886512,
+        "2020_2026": 0.9999242623083543
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "region_id": "YUK",
+      "name": "Yukarı Kaleköy",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 823,
+      "native_30m_height": 522,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "YUK",
+      "name": "Yukarı Kaleköy",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9538274605103281,
+      "native_30m_width": 823,
+      "native_30m_height": 522,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "YUK",
+      "name": "Yukarı Kaleköy",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9538111665107099,
+      "native_30m_width": 823,
+      "native_30m_height": 522,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "YUK",
+      "name": "Yukarı Kaleköy",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.9550425273390036,
+      "native_30m_width": 823,
+      "native_30m_height": 522,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "ASK",
+      "name": "Aşağı Kaleköy",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 866,
+      "native_30m_height": 491,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "ASK",
+      "name": "Aşağı Kaleköy",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 866,
+      "native_30m_height": 491,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "ASK",
+      "name": "Aşağı Kaleköy",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999858891925325,
+      "native_30m_width": 866,
+      "native_30m_height": 491,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "ASK",
+      "name": "Aşağı Kaleköy",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 866,
+      "native_30m_height": 491,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE1",
+      "name": "Beyhan I",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 1296,
+      "native_30m_height": 311,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "BE1",
+      "name": "Beyhan I",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 1296,
+      "native_30m_height": 311,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE1",
+      "name": "Beyhan I",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999801516414593,
+      "native_30m_width": 1296,
+      "native_30m_height": 311,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE1",
+      "name": "Beyhan I",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 1296,
+      "native_30m_height": 311,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE2",
+      "name": "Beyhan II",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 434,
+      "native_30m_height": 434,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "BE2",
+      "name": "Beyhan II",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 434,
+      "native_30m_height": 434,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE2",
+      "name": "Beyhan II",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999840727133725,
+      "native_30m_width": 434,
+      "native_30m_height": 434,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "BE2",
+      "name": "Beyhan II",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 434,
+      "native_30m_height": 434,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "KIG",
+      "name": "Kığı (Kiğı)",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 388,
+      "native_30m_height": 399,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "KIG",
+      "name": "Kığı (Kiğı)",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9999806216572359,
+      "native_30m_width": 388,
+      "native_30m_height": 399,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "KIG",
+      "name": "Kığı (Kiğı)",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999612433144718,
+      "native_30m_width": 388,
+      "native_30m_height": 399,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "KIG",
+      "name": "Kığı (Kiğı)",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 388,
+      "native_30m_height": 399,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "YED",
+      "name": "Yedisu",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.013334444537044753,
+      "native_30m_width": 169,
+      "native_30m_height": 213,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "YED",
+      "name": "Yedisu",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9999444398144289,
+      "native_30m_width": 169,
+      "native_30m_height": 213,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "YED",
+      "name": "Yedisu",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9998055393505014,
+      "native_30m_width": 169,
+      "native_30m_height": 213,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "YED",
+      "name": "Yedisu",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 169,
+      "native_30m_height": 213,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL",
+      "name": "Özlüce",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.8633474576271186,
+      "native_30m_width": 944,
+      "native_30m_height": 635,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "OZL",
+      "name": "Özlüce",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9999983317763246,
+      "native_30m_width": 944,
+      "native_30m_height": 635,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL",
+      "name": "Özlüce",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9998999065794741,
+      "native_30m_width": 944,
+      "native_30m_height": 635,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL",
+      "name": "Özlüce",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.9999933271052983,
+      "native_30m_width": 944,
+      "native_30m_height": 635,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PEM",
+      "name": "Pembelik",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.24714702760084925,
+      "native_30m_width": 672,
+      "native_30m_height": 314,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "PEM",
+      "name": "Pembelik",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 672,
+      "native_30m_height": 314,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PEM",
+      "name": "Pembelik",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999668259023354,
+      "native_30m_width": 672,
+      "native_30m_height": 314,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PEM",
+      "name": "Pembelik",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.9999952608431908,
+      "native_30m_width": 672,
+      "native_30m_height": 314,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "SEY",
+      "name": "Seyrantepe",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 234,
+      "native_30m_height": 294,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "SEY",
+      "name": "Seyrantepe",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 234,
+      "native_30m_height": 294,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "SEY",
+      "name": "Seyrantepe",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999854642711785,
+      "native_30m_width": 234,
+      "native_30m_height": 294,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "SEY",
+      "name": "Seyrantepe",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 234,
+      "native_30m_height": 294,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "TAT",
+      "name": "Tatar",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 364,
+      "native_30m_height": 548,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "TAT",
+      "name": "Tatar",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 1.0,
+      "native_30m_width": 364,
+      "native_30m_height": 548,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "TAT",
+      "name": "Tatar",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999699205903585,
+      "native_30m_width": 364,
+      "native_30m_height": 548,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "TAT",
+      "name": "Tatar",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 1.0,
+      "native_30m_width": 364,
+      "native_30m_height": 548,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "MURAT_VADI",
+      "name": "Murat barajlar koridoru",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.0,
+      "native_30m_width": 3415,
+      "native_30m_height": 884,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "MURAT_VADI",
+      "name": "Murat barajlar koridoru",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.988486713527623,
+      "native_30m_width": 3415,
+      "native_30m_height": 884,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "MURAT_VADI",
+      "name": "Murat barajlar koridoru",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9888626832645435,
+      "native_30m_width": 3415,
+      "native_30m_height": 884,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "MURAT_VADI",
+      "name": "Murat barajlar koridoru",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.9891654465592972,
+      "native_30m_width": 3415,
+      "native_30m_height": 884,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PERI_VADI",
+      "name": "Peri barajlar koridoru",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.19108845913911415,
+      "native_30m_width": 1750,
+      "native_30m_height": 2290,
+      "eligible_95pct": false
+    },
+    {
+      "region_id": "PERI_VADI",
+      "name": "Peri barajlar koridoru",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9997457267623207,
+      "native_30m_width": 1750,
+      "native_30m_height": 2290,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PERI_VADI",
+      "name": "Peri barajlar koridoru",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.99997903930131,
+      "native_30m_width": 1750,
+      "native_30m_height": 2290,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "PERI_VADI",
+      "name": "Peri barajlar koridoru",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.9999982532751092,
+      "native_30m_width": 1750,
+      "native_30m_height": 2290,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL_1984_PENCERE",
+      "name": "Özlüce / Orta Peri — 1984 kapsama penceresi",
+      "year": "1984",
+      "date": "1984-07-06",
+      "valid_fraction": 0.9999817184882235,
+      "native_30m_width": 1017,
+      "native_30m_height": 753,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL_1984_PENCERE",
+      "name": "Özlüce / Orta Peri — 1984 kapsama penceresi",
+      "year": "1990",
+      "date": "1990-08-08",
+      "valid_fraction": 0.9999986941777302,
+      "native_30m_width": 1017,
+      "native_30m_height": 753,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL_1984_PENCERE",
+      "name": "Özlüce / Orta Peri — 1984 kapsama penceresi",
+      "year": "2020",
+      "date": "2020-08-26",
+      "valid_fraction": 0.9999294855974332,
+      "native_30m_width": 1017,
+      "native_30m_height": 753,
+      "eligible_95pct": true
+    },
+    {
+      "region_id": "OZL_1984_PENCERE",
+      "name": "Özlüce / Orta Peri — 1984 kapsama penceresi",
+      "year": "2026",
+      "date": "2026-08-24",
+      "valid_fraction": 0.999994776710921,
+      "native_30m_width": 1017,
+      "native_30m_height": 753,
+      "eligible_95pct": true
+    }
+  ],
+  "selection_rule": "Her tarihte ve iki tarihin ortak maskesinde en az %95 geçerli piksel; 0 ve 1 geçerli, 255 NoData."
+}

@@ -1,0 +1,18 @@
+{
+  "maps": 55,
+  "satellite_swipes": 42,
+  "corine_swipes": 13,
+  "preexisting_files_preserved": 544,
+  "georeferenced_images_checked": 172,
+  "independent_source_pixel_checks": 360,
+  "browser_maps_passed": 55,
+  "local_links_passed": 678,
+  "javascript_errors": [],
+  "published_online": false,
+  "site_root": "06_StoryMaps/Swipe_Atlas_20261110",
+  "entry": "index.html",
+  "comparison_catalog": "karsilastirmalar.html",
+  "comparison_list": "belgeler/karsilastirma_listesi.csv",
+  "sidecar_records": "belgeler/storymaps_sidecar.csv",
+  "methods": "belgeler/YONTEM_VE_SINIRLILIKLAR.md"
+}

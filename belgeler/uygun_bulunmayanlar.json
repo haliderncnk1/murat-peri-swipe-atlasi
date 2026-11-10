@@ -1,0 +1,32 @@
+[
+  {
+    "product": "1984 tam baraj pencereleri",
+    "reason": "Özlüce tam penceresinde yaklaşık %86,3; diğer baraj pencerelerinde daha az/yok. %95 kapsam koşulunu sağlamadı. Gerçek 1984 penceresinde ayrı karşılaştırmalar üretildi."
+  },
+  {
+    "product": "Yalnız metadata tarihleri",
+    "dates": [
+      "1984-07-22",
+      "1984-09-08",
+      "1990-08-24",
+      "2020-08-10"
+    ],
+    "reason": "Gerçek bant dosyaları yok; görüntü veya Swipe üretilmedi."
+  },
+  {
+    "product": "JRC 1984–2021",
+    "reason": "Dönem özetleri iki tarihli gerçek uydu fotoğrafı değildir; kesin ilk dolum yılı çıkarılmadı."
+  },
+  {
+    "product": "WorldCover 2020 v100 / 2021 v200",
+    "reason": "Algoritma sürümleri farklı; doğrudan fiziksel yıllık değişim ve baraj etkisi çıkarılmadı."
+  },
+  {
+    "product": "SRTM / GLO30",
+    "reason": "Dönem/datum ve yüzey farkları; gerçek yatak değişimi veya baraj etkisi sayılmadı."
+  },
+  {
+    "product": "NDTI 2026",
+    "reason": "Yalnız bir tarih ve kalibrasyonsuz göreli gösterge; tortu zamanı/miktarı karşılaştırması yapılmadı."
+  }
+]

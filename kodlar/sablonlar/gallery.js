@@ -1,0 +1,4 @@
+'use strict';
+(()=>{const maps=window.ATLAS_DATA,$=id=>document.getElementById(id),normalize=s=>s.toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ı/g,'i');
+const cards=[...document.querySelectorAll('.card')];function filter(){const text=normalize($('search').value),region=$('region').value,pair=$('pair').value,kind=$('kind').value;let count=0;cards.forEach((card,i)=>{const m=maps[i],ok=(!text||normalize(m.title+' '+m.region_name+' '+m.river).includes(text))&&(!region||m.region_id===region)&&(!pair||m.years.join('_')===pair)&&(!kind||m.kind===kind);card.hidden=!ok;if(ok)count++;});$('count').textContent=count+' karşılaştırma gösteriliyor';$('empty').hidden=count>0;}
+for(const id of ['search','region','pair','kind'])$(id).addEventListener(id==='search'?'input':'change',filter);filter();window.atlasGallery={maps,filter};})();

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "USGS/NASA Landsat kamu arşivi",
+    "url": "https://cloud.google.com/storage/docs/public-datasets/landsat"
+  },
+  {
+    "name": "© OpenStreetMap katkıcıları, ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  {
+    "id": "K_YUK",
+    "name": "Yukarı Kaleköy — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Upper_Kaleköy_Dam"
+  },
+  {
+    "id": "S01",
+    "name": "Kalehan: Yukarı Kaleköy",
+    "url": "https://kalehan.com.tr/projeler/yukari-kalekoy-baraji-ve-hes/"
+  },
+  {
+    "name": "Copernicus Sentinel-2 L2A / Element 84 Earth Search",
+    "url": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a"
+  },
+  {
+    "name": "CORINE 2000, resmî EEA vektör servisi",
+    "url": "https://image.discomap.eea.europa.eu/arcgis/rest/services/Corine/CLC2000_WM/MapServer/0"
+  },
+  {
+    "name": "CORINE 2018, resmî EEA vektör servisi",
+    "url": "https://image.discomap.eea.europa.eu/arcgis/rest/services/Corine/CLC2018_WM/MapServer/0"
+  },
+  {
+    "id": "K_ASK",
+    "name": "Aşağı Kaleköy — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Lower_Kaleköy_Dam"
+  },
+  {
+    "id": "S02",
+    "name": "Kalehan: Aşağı Kaleköy",
+    "url": "https://kalehan.com.tr/projeler/asagi-kalekoy-baraji-ve-hes/"
+  },
+  {
+    "id": "K_BE1",
+    "name": "Beyhan I — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Beyhan_I_Dam"
+  },
+  {
+    "id": "S03",
+    "name": "Kalehan: Beyhan I",
+    "url": "https://kalehan.com.tr/projeler/beyhan-1-baraji-ve-hes/"
+  },
+  {
+    "id": "S11",
+    "name": "Global Energy Monitor: Beyhan II",
+    "url": "https://www.gem.wiki/Beyhan_2_hydroelectric_plant"
+  },
+  {
+    "id": "S12",
+    "name": "Enerji Günlüğü: Beyhan II lisans sonlandırma 16.01.2023",
+    "url": "https://www.enerjigunlugu.net/epdk-beyhan-2-hesin-uretim-lisansini-sona-erdirdi-52432h.htm"
+  },
+  {
+    "id": "K_KIG",
+    "name": "Kığı (Kiğı) — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Kiğı_Dam"
+  },
+  {
+    "id": "S05",
+    "name": "Kiğı Kaymakamlığı: barajlar",
+    "url": "https://www.kigi.gov.tr/barajlarimiz"
+  },
+  {
+    "id": "S23",
+    "name": "Kiğı 2017 işletmeye giriş haberi; ikincil",
+    "url": "https://www.bingolonline.com/haber/kigida-elektrik-uretimi-basladi-61314.html"
+  },
+  {
+    "id": "K_YED",
+    "name": "Yedisu — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Yedisu_Dam"
+  },
+  {
+    "id": "S10",
+    "name": "Özaltın: Yedisu",
+    "url": "https://www.ozaltin.com/tr/tum-projeler/baraj-ve-hes-projeleri/insaat/yedisu-baraji-ve-hes-2"
+  },
+  {
+    "id": "S14",
+    "name": "TRT Haber: Yedisu işletmeye giriş",
+    "url": "https://www.trthaber.com/haber/ekonomi/yukari-kalekoy-ve-yedisu-hesten-dev-uretim-10-milyon-megavatsaat-uretime-ulasildi-935577.html"
+  },
+  {
+    "id": "K_OZL",
+    "name": "Özlüce — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Özlüce_Dam"
+  },
+  {
+    "id": "S22",
+    "name": "EÜAŞ Özlüce",
+    "url": "https://www.euas.gov.tr/en-US/power-plants/ozluce-hepp"
+  },
+  {
+    "id": "K_PEM",
+    "name": "Pembelik — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Pembelik_Dam"
+  },
+  {
+    "id": "S07",
+    "name": "Limak: Pembelik",
+    "url": "https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/pembelik-baraji"
+  },
+  {
+    "id": "K_SEY",
+    "name": "Seyrantepe — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Seyrantepe_Dam"
+  },
+  {
+    "id": "S08",
+    "name": "Limak: Seyrantepe",
+    "url": "https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/seyrantepe-baraji-ve-hidroelektrik-santrali"
+  },
+  {
+    "id": "K_TAT",
+    "name": "Tatar — ikincil koordinat kaynağı",
+    "url": "https://en.wikipedia.org/wiki/Tatar_Dam"
+  },
+  {
+    "id": "S09",
+    "name": "Limak: Tatar",
+    "url": "https://www.limak.com.tr/sektorler/enerji/enerji-uretimi/tatar-baraji"
+  }
+]
